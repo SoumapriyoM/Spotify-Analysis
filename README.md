@@ -1,7 +1,7 @@
 ![Spotify Analysis 2023 - Report preview](https://github.com/SoumapriyoM/Spotify-Analysis/assets/103531896/c583ab69-3df2-4671-9836-03f4d7fb47f1)
 
 # Spotify Data Analysis with Power BI
-[Here is the download shared !!](https://github.com/SoumapriyoM/Spotify-Analysis.git)
+[Here see the report !!](https://github.com/SoumapriyoM/Spotify-Analysis.git)
 ## Overview
 
 This repository contains a Power BI file for analyzing Spotify data. The Power BI file allows you to connect to your Spotify data and create visualizations and insights from your music streaming history. With this Power BI project, you can gain a better understanding of your music listening habits and preferences.
